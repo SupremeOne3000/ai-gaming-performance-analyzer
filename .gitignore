@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.pt
+videos/
+output/
+model/
